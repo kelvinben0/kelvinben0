@@ -5,6 +5,8 @@
 
 ![Kelvin GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvinben0&theme=dark&show_icons=transparent)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinben0)](https://github.com/kelvinben0/github-readme-stats)
+
 ## Tecnologias que utilizo no dia a dia
 
 <div style="display: inline_block"><br/>
@@ -12,3 +14,4 @@
 </div><br>
 
 Apenas um apaixonado em aprender tecnologia.
+

@@ -6,8 +6,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/redcartixxz/)
 
 <div>
-  <img  align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=kelvinben0&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img  align="left" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinben0&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img  align="center" height="130em" src="https://github-readme-stats.vercel.app/api?username=kelvinben0&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img  align="left" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinben0&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
 

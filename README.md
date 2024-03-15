@@ -5,9 +5,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvinbenevides/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/redcartixxz/)
 
-![Kelvin GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvinben0&show_icons=true&theme=tokyonight)
+<div>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=kelvinben0&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinben0&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
+<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinben0)](https://github.com/kelvinben0/github-readme-stats)
 
 ## Tecnologias usadas no meu dia a dia
 
